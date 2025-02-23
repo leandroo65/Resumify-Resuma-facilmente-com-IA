@@ -17,7 +17,7 @@ pip install transformers pdfplumber reportlab langdetect
 
 Clone o repositório:
 
-git clone https://github.com/seu-usuario/resumify.git
+git clone https://github.com/leandroo65/Resumify-Resuma-facilmente-com-IA.git
 cd resumify
 
 Execute o aplicativo:
